@@ -12,7 +12,7 @@
     "ant-design-vue": "4.x",
     "axios": "^1.7.4",
     "dayjs": "^1.11.12",
-    "vue": "^3.4.37"
+    "vue": "^3.5.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.2",
