@@ -30,8 +30,8 @@ const collapsed = ref<boolean>(false);
             height: '32px',
             // background: 'rgba(255,255,255,.2)',
             backgroundColor: '#000',
-            borderRadius: '6px',
             margin: '16px',
+            borderRadius: '6px',
           }"
         />
         <a-menu v-model:selectedKeys="selectedKeys" theme="light" mode="inline">
@@ -83,6 +83,7 @@ const collapsed = ref<boolean>(false);
             padding: '24px',
             background: '#fff',
             minHeight: '280px',
+            borderRadius: '10px',
           }"
         >
           <main>
